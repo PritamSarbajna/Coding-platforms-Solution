@@ -7,7 +7,7 @@ This repo contains various competitive programming platform's solution.
 
 
 ## Platforms
-- Code Chef
+- [Code Chef](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/Code%20Chef)
 - Codeforces
 - GeeksForGeeks 
 - HackerEarth
