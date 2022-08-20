@@ -11,6 +11,6 @@ This repo contains various competitive programming platform's solution.
 - [Codeforces](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/Codeforces)
 - [GeeksForGeeks](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/GeeksForGeeks)
 - [HackerEarth](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/HackerEarth)
-- HackerRank
+- [HackerRank](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/HackerRank)
 - InterviewBit
 - Leet Code
