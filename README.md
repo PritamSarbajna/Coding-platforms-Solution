@@ -13,4 +13,4 @@ This repo contains various competitive programming platform's solution.
 - [HackerEarth](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/HackerEarth)
 - [HackerRank](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/HackerRank)
 - [InterviewBit](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/InterviewBit)
-- Leet Code
+- [Leet Code](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/Leet%20Code)
