@@ -10,7 +10,7 @@ This repo contains various competitive programming platform's solution.
 - [Code Chef](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/Code%20Chef)
 - [Codeforces](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/Codeforces)
 - [GeeksForGeeks](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/GeeksForGeeks)
-- HackerEarth
+- [HackerEarth](https://github.com/PritamSarbajna/Competitive-Programming-Solution/tree/main/HackerEarth)
 - HackerRank
 - InterviewBit
 - Leet Code
