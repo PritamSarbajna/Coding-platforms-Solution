@@ -30,24 +30,19 @@ class Solution
       queue.push(node);
       
       while(!queue.empty()){
-          int n = queue.size();
-          
-          for(int i=0; i<n; i++){
+        struct Node *temp = queue.front();
+        queue.pop();
               
-              struct Node *temp = queue.front();
-              queue.pop();
-              
-              if(temp->left != NULL){
-                  queue.push(temp->left);
-              }
-              
-              if(temp->right != NULL){
-                  queue.push(temp->right);
-              }
-              
-              tree.push_back(temp->data);
-          }
+        if(temp->left != NULL){
+          queue.push(temp->left);
         }
+              
+        if(temp->right != NULL){
+            queue.push(temp->right);
+        }
+              
+        tree.push_back(temp->data);
+       }
         
         return tree;
     }
