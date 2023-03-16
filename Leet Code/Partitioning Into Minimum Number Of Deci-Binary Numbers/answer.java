@@ -23,3 +23,10 @@ class Solution {
         return sum;
     }
 }
+
+// Approach 2
+class Solution {
+    public int minPartitions(String n) {
+        return n.chars().max().getAsInt()-'0';
+    }
+}
