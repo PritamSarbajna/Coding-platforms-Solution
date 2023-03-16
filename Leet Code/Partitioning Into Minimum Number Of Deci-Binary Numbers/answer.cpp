@@ -19,3 +19,18 @@ public:
         return ans;
     }
 };
+
+// Approach 2
+
+class Solution {
+public:
+    int minPartitions(string n) {
+        int maxx = INT_MIN;
+
+        for(auto x:n){
+            maxx = max(x-'0',maxx);
+        }
+
+        return maxx;
+    }
+};
