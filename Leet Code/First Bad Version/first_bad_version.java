@@ -6,14 +6,14 @@ public class Solution extends VersionControl {
         int low = 0, high = n;
 
         while(low<=high){
-            int mid = (high+low)/2;
+            int mid = low+(high-low)/2;
 
             if(isBadVersion(mid) && !(isBadVersion(mid-1)))
                 return mid;
             else if(isBadVersion(mid)==false ) 
                 low = mid+1;
             else 
-                high= mid;
+                high = mid;
         }
         return -1;
     }
