@@ -1,3 +1,5 @@
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
 # Competitive-Programming-Solution
 This repo contains various programming platform's solution.
 
