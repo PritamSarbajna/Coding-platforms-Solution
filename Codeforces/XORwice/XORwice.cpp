@@ -42,7 +42,7 @@ int main() {
     while(t--){
         int a, b; cin >> a >> b;
 
-        cout << ((a ^ (a&b)) | (b ^ (a&b))) << endl;
+        cout << ((a ^ (a&b)) | (b ^ (a&b))) << endl; // x = (a&b)    # We can also write this expression after minimization as : cout << (a ^ b) << endl;
     }
 
     return 0;
